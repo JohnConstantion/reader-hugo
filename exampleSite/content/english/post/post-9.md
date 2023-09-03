@@ -21,7 +21,7 @@ draft: false
 是什么什么让我们想要出门呢？
 是外面那色彩斑斓的世界，是五彩缤纷的城市色彩，是多姿多彩的喧闹生活。
 
-<video src="https://www.bilibili.com/festival/2023bnj?bvid=BV1ZY4y1f79x&spm_id_from=333.788.recommend_more_video.1" controls="controls" width="500" height="300"/>
+[//]: # (<video src="https://www.bilibili.com/festival/2023bnj?bvid=BV1ZY4y1f79x&spm_id_from=333.788.recommend_more_video.1" controls="controls" width="500" height="300"/>)
 
 「风最懂得劲草向往的方向。
 天最知道河流奔向的地方。
