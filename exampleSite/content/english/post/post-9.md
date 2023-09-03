@@ -10,8 +10,8 @@ author: "John Doe"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: ["creativity","natural"]
-tags: ["color","recipe","fish"]
+categories: [ "creativity","natural" ]
+tags: [ "food","vlog","nice" ]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
@@ -21,3 +21,45 @@ draft: false
 是什么什么让我们想要出门呢？
 是外面那色彩斑斓的世界，是五彩缤纷的城市色彩，是多姿多彩的喧闹生活。
 
+<video src="https://www.bilibili.com/festival/2023bnj?bvid=BV1ZY4y1f79x&spm_id_from=333.788.recommend_more_video.1" controls="controls" width="500" height="300"/>
+
+「风最懂得劲草向往的方向。
+天最知道河流奔向的地方。
+总有些夜晚，忽然那么长，那么长。
+时与光的河流上，梦与记忆悠悠流淌。
+——向某个地方。
+——是家，也是乡。」
+
+瓦上的薄霜 窗前的月光
+都照亮心底 某个地方
+有人用思念 酿短促诗行
+流淌过一千年 恋恋难忘
+你有绿树红墙 替我遮风霜
+也有草场白云白 吹到长城长
+甜水出小巷 灶上老火汤
+再加三分时光 坐在门前慢慢尝
+人间烟火山河浩荡 清风过大江
+水路弯弯连海浪 两岸千里稻花香
+你爱的人啊 记得你最好模样
+你是漂泊的终章 是心之所向
+时代滔滔向前 温柔而勇往
+留步我梦中的你 花开遍山冈
+蹒跚着成长 离开又回望
+你是念也是想 是童年第一颗糖
+人间烟火山河浩荡 大雪落夕阳
+午夜钟声十二响 一滴团圆的泪光
+你爱的人啊 永远放你在心上
+就算已白发苍苍 也别来无恙
+人间烟火山河浩荡 你任我去闯
+隔山隔海回头望 最远最近是家乡
+我爱的你啊 美如千年的诗行
+挽着小小那个我 踏进明月光
+要用尽啊 用一生才懂寻常
+我与你啊 与当时擦肩相望
+这一刻忘了奔忙 也忘了沧桑
+爱的人还在身旁 落叶又回到 枝头上
+
+
+零碎的纸片缝隙之中，成双成对的苍蝇在上面飞舞。
+
+内心丑陋，自然没有勇气面对阳光。
