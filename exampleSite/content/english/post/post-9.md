@@ -6,12 +6,12 @@ images:
   - "images/blog/blog-8.jpg"
   - "images/blog/blog-9.jpg"
 #author
-author: "John Doe"
+author: "Crucio"
 # description
 description: "This is meta description"
 # Taxonomies
 categories: [ "creativity","natural" ]
-tags: [ "food","vlog","nice" ]
+tags: [ "书本","阅读","练习" ]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
