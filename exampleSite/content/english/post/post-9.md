@@ -3,8 +3,7 @@ title: "写作练习"
 date: 2023-08-31T09:52:24+06:00
 # post thumb
 images:
-  - "images/blog/blog-8.jpg"
-  - "images/blog/blog-9.jpg"
+  - "images/blog/blog-11.jpg"
 #author
 author: "Crucio"
 # description
