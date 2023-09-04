@@ -11,21 +11,9 @@ education:
   enable : true
   title : "Educational Qualification <br> That I Have Gathered"
   degree:
-  - name : "BEng Electronic Engineering"
-    duration : "September 2000 - May 2004"
-    academy : "University Of California"
-    
-  - name : "MSc in Research Methodology"
-    duration : "September 2000 - May 2004"
-    academy : "University Of California"
-    
-  - name : "BEng Electronic Engineering"
-    duration : "September 2000 - May 2004"
-    academy : "University Of California"
-    
-  - name : "MSc in Research Methodology"
-    duration : "September 2000 - May 2004"
-    academy : "University Of California"
+  - name : "拖延症12级患者"
+    duration : "September 1995 - May 2023"
+    academy : "家里蹲大学"
 
 # mission
 mission:
@@ -48,16 +36,8 @@ partners:
   title : "My Contents also published <br> on these websites"
   logos:
     - "images/logos/logo-1.png"
-    - "images/logos/logo-2.png"
-    - "images/logos/logo-3.png"
-    - "images/logos/logo-4.png"
-    - "images/logos/logo-5.png"
-    - "images/logos/logo-6.png"
-    - "images/logos/logo-7.png"
-    - "images/logos/logo-8.png"
-    - "images/logos/logo-9.png"
 ---
 
-## Helllo I’m Richi Andorn I’m a Biography Based researcher And Author 
+## Helllo I’m Crucio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.
+拖延症晚期患者，讨厌工作和学习，什么样的事情都喜欢清闲的。
