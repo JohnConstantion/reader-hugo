@@ -1,5 +1,5 @@
 ---
-title: "写作练习"
+title: "代码练习"
 date: 2023-09-04T10:40:24+06:00
 # post thumb
 images:
