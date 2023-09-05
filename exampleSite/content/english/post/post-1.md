@@ -10,8 +10,8 @@ author: "Crucio"
 description: "This is meta description"
 # Taxonomies
 categories: ["creativity","natural"]
-tags: ["color"]
-type: "trending" # available type (epic, trending, popular, or regular)
+tags: ["创作","灵感"]
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
