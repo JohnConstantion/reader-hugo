@@ -29,7 +29,7 @@ hasChildren = true
   name = "Homepage Full With Right Sidebar"
   url = "homepage/full-right/"
   weight = 4
-  
+
   [[main]]
   parent = "homepage"
   name = "Homepage List Style"
@@ -47,7 +47,7 @@ hasChildren = true
   name = "Homepage List With Right Sidebar"
   url = "homepage/list-right/"
   weight = 7
-  
+
   [[main]]
   parent = "homepage"
   name = "Homepage Grid Style"
@@ -71,7 +71,7 @@ hasChildren = true
 name = "About"
 URL = "#"
 weight = 2
-  
+
   [[main]]
   parent = "About"
   name = "About Me"
@@ -107,26 +107,26 @@ hasChildren = true
   url = "categories/creativity/"
   weight = 2
 
-  [[main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food/"
-  weight = 3
+#  [[main]]
+#  parent = "Pages"
+#  name = "Tags"
+#  url = "tags/food/"
+#  weight = 3
 
-  [[main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404/"
-  weight = 4
+#  [[main]]
+#  parent = "Pages"
+#  name = "404 Page"
+#  url = "404/"
+#  weight = 4
 
 
 # footer menu
-[[footer]]
-name = "Privacy Policy"
-URL = "privacy-policy/"
-weight = 1
-
-[[footer]]
-name = "Terms Conditions"
-URL = "terms-conditions/"
-weight = 2
+#[[footer]]
+#name = "Privacy Policy"
+#URL = "privacy-policy/"
+#weight = 1
+#
+#[[footer]]
+#name = "Terms Conditions"
+#URL = "terms-conditions/"
+#weight = 2
