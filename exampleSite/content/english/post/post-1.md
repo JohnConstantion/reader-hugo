@@ -1,40 +1,31 @@
 ---
-title: "Use apples to give your bakes caramel and a moist texture"
-date: 2020-03-14T15:40:24+06:00
+title: "创作如何开始"
+date: 2023-09-05T15:40:24+06:00
 # post thumb
 images:
   - "images/blog/blog-1.jpg"
 #author
-author: "Charls Xaviar"
+author: "Crucio"
 # description
 description: "This is meta description"
 # Taxonomies
 categories: ["creativity","natural"]
-tags: ["color","recipe","fish"]
-type: "epic" # available type (epic, trending, popular, or regular)
+tags: ["color"]
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+# 怎么搞创作
+{{< notice "创作如何开头？" >}}
+当你想要做些什么的时候，不要去管什么软件，不要去想怎么做好，不要去想怎么开始，请直接去做就行。
+<hr>
+学习进步和你的创作同时进行，将你学到的知识点，当场做好，发出去。只要是有进步的，就不要害羞的将它发步出来就行。生活就是这样的任性。也许在创作的过程中你不知道如何入手开始，那么
+就先做第一件事情，创建文件夹，然后你的第一步就迈成功了。这样可以让你对自己心理暗示，不用担心创作很困难，也开始了你的第一步。
+{{< /notice >}}
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+<hr>
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+{{< notice "创作灵感哪里来？" >}}
+灵感就是你遇到的任何事情，任何经历，任何想法。你对于事情的吐槽，你对于电视的喜爱，都是你的灵感。你可以对任何的东西发表你的看法，你的技能知识点。没有灵感的时候也只是你累了，
+以及自己的库存不足，需要你去获取信息。
+{{< /notice >}}
