@@ -11,7 +11,7 @@ description: "This is meta description"
 # Taxonomies
 categories: ["videography","vlog"]
 tags: ["food","vlog","nice"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
