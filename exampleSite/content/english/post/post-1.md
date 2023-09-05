@@ -1,16 +1,16 @@
 ---
-title: "创作的整理"
+title: "WarMa推荐的创作基础整理"
 date: 2023-09-05T11:02:24+06:00
 # post thumb
 images:
-  - "images/blog/zhudi.jpg"
+  - "images/blog/warma.jpg"
 #author
 author: "Crucio"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: [ "学习","灵感","创意" ]
-tags: [ "学习","灵感","创意" ]
+categories: [ "learn","inspiration","originality" ]
+tags: [ "learn","inspiration","originality" ]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
