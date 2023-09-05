@@ -1,16 +1,16 @@
 ---
-title: "创作如何开始"
-date: 2023-09-05T15:40:24+06:00
+title: "代码练习"
+date: 2023-09-05T11:02:24+06:00
 # post thumb
 images:
-  - "images/blog/blog-1.jpg"
+  - "images/blog/zhudi.jpg"
 #author
 author: "Crucio"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: ["creativity","natural"]
-tags: ["创作","灵感"]
+categories: [ "学习","灵感","创意" ]
+tags: [ "学习","灵感","创意" ]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
