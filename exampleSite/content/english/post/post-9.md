@@ -11,7 +11,7 @@ description: "This is meta description"
 # Taxonomies
 categories: [ "学习","natural" ]
 tags: [ "书本","阅读","练习" ]
-type: "regular" # available type (epic, trending, popular, or regular)
+type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
