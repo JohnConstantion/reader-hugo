@@ -11,7 +11,7 @@ description: "This is meta description"
 # Taxonomies
 categories: ["creativity","natural"]
 tags: ["color"]
-type: "epic" # available type (epic, trending, popular, or regular)
+type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
