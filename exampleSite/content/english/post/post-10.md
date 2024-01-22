@@ -25,3 +25,10 @@ public class First {
 }
 ```
 敲出的java入门代码
+
+# 常见的微服务的架构模式
+
+
+### 代理微服务模式
+{{< image alt="代理微服务模式" src="images/posts/post10-1.jpg" >}}
+> 优点：
