@@ -30,5 +30,5 @@ public class First {
 
 
 ### 代理微服务模式
-{{< image alt="代理微服务模式" src="images/posts/post10-1.jpg" >}}
+{{< image alt="代理微服务模式" src="images/posts/post10-1.png" >}}
 > 优点：
