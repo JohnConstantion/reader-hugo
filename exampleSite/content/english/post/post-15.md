@@ -56,5 +56,5 @@ public class SpringDocConfig {
 | @ApiResponse/@ApiResponses |   用来配置响应    |    @ApiResponse(responseCode = "403", description = "无权限") |
 | @Schema |   标记在模型（model）类上或类的属性上，进行标注解释。    |    @Schema |
 
-### 官方链接
-[springdoc-openapi](https://springdoc.org/#springdoc-openapi-core-properties)
+### 官方链接Link
+[spring doc-openapi](https://springdoc.org/#springdoc-openapi-core-properties)
