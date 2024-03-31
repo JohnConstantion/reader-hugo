@@ -5,7 +5,7 @@ date: 2023-09-04T11:02:24+06:00
 images:
   - "images/blog/zhudi.jpg"
 #author
-author: "Crucio"
+author: "Zephyr"
 # description
 description: "This is meta description"
 # Taxonomies
