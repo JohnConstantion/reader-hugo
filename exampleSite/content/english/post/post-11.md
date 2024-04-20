@@ -4,6 +4,8 @@ date: 2023-09-04T13:43:24+06:00
 # post thumb
 images:
   - "images/blog/sheen.jpg"
+  - "images/blog/blog-gui.jpg"
+  - "images/blog/blog-long.jpg"
 #author
 author: "Zephyr"
 # description
