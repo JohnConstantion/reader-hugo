@@ -3,7 +3,7 @@ title: "写作练习"
 date: 2023-09-04T13:43:24+06:00
 # post thumb
 images:
-  - "images/blog/xie.jpg"
+  - "images/blog/sheen.jpg"
 #author
 author: "Zephyr"
 # description
