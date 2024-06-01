@@ -1,6 +1,6 @@
 ---
 title: "在Junit中引入Tika类运行时显示空指针异常，容器找不到对应的类对象"
-date: 2024-06-01T15:50:24+06:00
+date: 2024-05-31T15:50:24+06:00
 # post thumb
 images:
   - "images/blog/sheen.jpg"
