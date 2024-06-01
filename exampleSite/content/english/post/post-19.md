@@ -17,7 +17,7 @@ type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
- 在Junit中引入Tika类运行时显示空指针异常，容器找不到对应的类对象
+在Junit中引入Tika类运行时显示空指针异常，容器找不到对应的类对象
 
 ## 出问题的代码编写格式
 ```java

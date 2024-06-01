@@ -36,7 +36,7 @@ innovate, but balancing commercially and creatively lucrative work is tricky. So
         System.out.println(parse);
     }
 ```
->> 在测试运行爆出异常信息为：java.lang.NullPointerException: Cannot invoke "org.apache.tika.Tika.parseToString(java.io.File)"
+> 在测试运行爆出异常信息为：java.lang.NullPointerException: Cannot invoke "org.apache.tika.Tika.parseToString(java.io.File)"
 该原因是找不到相关容器bean所以注解里获取的是空值
 
 ## 解决的方案为
@@ -50,5 +50,5 @@ innovate, but balancing commercially and creatively lucrative work is tricky. So
         System.out.println(parse);
     }
 ```
->> 因为相关的容器无法注入，所以最简洁的解决方案是直接在方法内创建新的对象，这样就可以直接找到，无需容器去寻找对应的对象再注入到容器内。
+> 因为相关的容器无法注入，所以最简洁的解决方案是直接在方法内创建新的对象，这样就可以直接找到，无需容器去寻找对应的对象再注入到容器内。
 
