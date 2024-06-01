@@ -5,7 +5,7 @@ date: 2024-06-01T15:50:24+06:00
 images:
   - "images/blog/sheen.jpg"
 #author
-author: "Zephyr"
+author: "Kate Stone"
 # description
 description: "This is meta description"
 # Taxonomies
