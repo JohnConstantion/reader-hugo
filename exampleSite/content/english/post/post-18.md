@@ -1,17 +1,17 @@
 ---
-title: "The Design Files - Homes Minimalist"
-date: 2020-03-14T15:40:24+06:00
+title: "在Junit中引入Tika类运行时显示空指针异常，容器找不到对应的类对象"
+date: 2024-07-03T08:50:24+06:00
 # post thumb
 images:
-  - "images/blog/blog-2.jpg"
+  - "images/blog/code.jpg"
 #author
-author: "Kate Stone"
+author: "Crucio"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: ["videography","vlog"]
-tags: ["food","vlog","nice"]
-type: "epic" # available type (epic, trending, popular, or regular)
+categories: [ "videography","vlog" ]
+tags: [ "write","learn","day" ]
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
