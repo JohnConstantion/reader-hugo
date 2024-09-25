@@ -38,11 +38,13 @@ rime自带了一些输入方案，不要说普遍的拼音、五笔、双拼，�
 
 之所以大家不愿意使用原本系统自带的输入法，转而使用各大厂商提供的输入法的原因就是系统自带的输入法词不够智能，词组量太少。
 像是搜狗输入法，大家可以添加自己常用的以及自己工作上的词组，可以大大加快大家的输入速度，以至于搜狗输入法用的再不舒服，大家也会继续使用。
-rime输入法原本的词组也很糟糕，仅仅是能用的地步，但是其强大的词组拓展功能，可以
+rime输入法原本的词组也很糟糕，仅仅是能用的地步，但是其强大的词组拓展功能，可以定制出适合自己的最喜欢的输入法。
+甚至其他输入法使用的词库也是可以导入到rime输入法里，不过在导入之前需要通过 [”深蓝词库转换“ 一款开源免费的输入法词库转换程序](https://github.com/studyzy/imewlconverter) 进行转换。
+当然词库也不是越多越好，根据自己日常的习惯建立合适的词库为宜。
 
 
 #### 好用的词库
-GitHub有[**中文维基**](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
-[**萌娘**](https://github.com/outloudvi/mw2fcitx/releases)的词库
+GitHub有 [**中文维基**](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
+[**萌娘**](https://github.com/outloudvi/mw2fcitx/releases) 的词库
 
 
