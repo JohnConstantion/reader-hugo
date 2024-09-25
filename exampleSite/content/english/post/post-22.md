@@ -28,7 +28,7 @@ rime自带了一些输入方案，不要说普遍的拼音、五笔、双拼，�
 进阶一点的话，你甚至可以基于自己的习惯定制。
 
 #### 好用的词库
-GitHub有[中文维基](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
-[萌娘](https://github.com/outloudvi/mw2fcitx/releases)的词库
+GitHub有[*中文维基*](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
+[*萌娘*](https://github.com/outloudvi/mw2fcitx/releases)的词库
 
 
