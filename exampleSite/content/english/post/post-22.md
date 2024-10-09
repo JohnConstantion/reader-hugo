@@ -44,7 +44,9 @@ rime输入法原本的词组也很糟糕，仅仅是能用的地步，但是其�
 
 
 #### 好用的词库
-GitHub有 [**中文维基**](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
+推荐的词库有：[**白露词库**](https://github.com/gaboolic/rime-frost)、
+[**雾凇词库**](https://github.com/iDvel/rime-ice)
+拓展词库在GitHub有 [**中文维基**](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
 [**萌娘**](https://github.com/outloudvi/mw2fcitx/releases) 的词库
 
 
