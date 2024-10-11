@@ -42,14 +42,19 @@ draft: false
 * [**Directors notes**](https://directorsnotes.com/)
 * [**Go Into The Story**](https://gointothestory.blcklst.com/)
 
+##### banner.txt 设计的网址
+[**patchwork Banner**](http://patorjk.com/software/taag)
+[**network-science**](http://www.network-science.de/ascii/)
+[**degrade**](http://www.degraeve.com/img2txt.php)
+[**boot school**](http://www.bootschool.net/ascii)
 
 ### 值得去看的电影
 
 {{< collapse "海蒂和爷爷" >}}
-This is a simple collapse
+  海蒂是个怎么样的小孩，天真善良。
 {{< /collapse >}}
 
-{{< collapse "我的塞林格之年" >}}
-This is a simple collapse
+{{< collapse "职业辣妹" >}}
+
 {{< /collapse >}}
 

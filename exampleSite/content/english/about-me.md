@@ -38,6 +38,6 @@ partners:
     - "images/logos/logo-1.png"
 ---
 
-## Helllo I’m Crucio
+## Hello I’m Crucio
 
 拖延症晚期患者，讨厌工作和学习，什么样的事情都喜欢清闲的。
