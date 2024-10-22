@@ -1,27 +1,69 @@
 ---
-title: "The Design Files - Homes Minimalist"
-date: 2020-03-14T15:40:24+06:00
+title: "MarkDown语法"
+date: 2024-10-22T17:58:03+08:00
 # post thumb
-images:
-  - "images/blog/blog-2.jpg"
+#images:
+#  - "images/blog/blog-2.jpg"
 #author
-author: "Kate Stone"
+author: "Crucio"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: ["videography","vlog"]
-tags: ["food","vlog","nice"]
-type: "epic" # available type (epic, trending, popular, or regular)
+categories: [ "videography","vlog" ]
+tags: [ "food","vlog","nice" ]
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+### UML 图
 
-在Junit中引入Tika类运行时显示空指针异常，容器找不到对应的类对象
+sequenceDiagram
+张三 ->> 李四: 你好！李四, 最近怎么样?
+李四-->>王五: 你最近怎么样，王五？
+李四--x 张三: 我很好，谢谢!
+李四-x 王五: 我很好，谢谢!
+Note right of 王五: 李四想了很长时间, 文字太长了<br/>不适合放在一行.
+
+李四-->>张三: 打量着王五...
+张三->>王五: 很好... 王五, 你怎么样?
+
+---
+
+### 甘特图
+
+gantt
+dateFormat  YYYY-MM-DD
+title Adding GANTT diagram functionality to mermaid
+section 现有任务
+已完成               :done,    des1, 2014-01-06,2014-01-08
+进行中               :active,  des2, 2014-01-09, 3d
+计划中               :         des3, after des2, 5d
+
+---
+
+###  flow 流程图
+
+lowchat
+st=>start: 开始
+e=>end: 结束
+op=>operation: 我的操作
+cond=>condition: 确认？
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+
+---
+
+### Mermaid 类图
+
+graph LR
+A[长方形] -- 链接 --> B((圆))
+A --> C(圆角长方形)
+B --> D{菱形}
+C --> D
+
+---
 
 
 
