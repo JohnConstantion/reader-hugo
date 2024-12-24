@@ -49,4 +49,7 @@ rime输入法原本的词组也很糟糕，仅仅是能用的地步，但是其�
 拓展词库在GitHub有 [**中文维基**](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
 [**萌娘**](https://github.com/outloudvi/mw2fcitx/releases) 的词库
 
+### 待更新学习的模块
+[**万象词典**]https://github.com/amzxyz/RIME-LMDG
+
 
