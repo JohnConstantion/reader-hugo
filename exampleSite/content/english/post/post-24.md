@@ -48,6 +48,9 @@ draft: false
 [**degrade**](http://www.degraeve.com/img2txt.php)
 [**boot school**](http://www.bootschool.net/ascii)
 
+##### 翻译的网站
+[**Quark24-免费翻译**](https://quark24.com/zh/subtranslator/)
+
 ### 值得去看的电影
 
 {{< collapse "海蒂和爷爷" >}}
