@@ -62,7 +62,7 @@ nvm unalias <name>
 ```shell
 nvm uninstall <version>
 ```
-
+>更换版本后重新安装包
 ```shell
 nvm reinstall-packages <version>
 ```
