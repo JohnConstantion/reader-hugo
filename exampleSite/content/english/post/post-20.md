@@ -54,18 +54,22 @@ nvm use 版本号
 ```shell
 nvm alias  default 版本号
 ```
+>删除对应的版本号
+```shell
+nvm unalias 版本号
+```
 
 ### 安装管理的源nrm
 
 > 原本的npm源是国外的源，可以使用下面的方法去安装
-  查询可以使用的源
-  切换使用的源
 ```shell
 npm install -g nrm --registry=https://mirrors.tencent.com/npm/
 ```
+>查询可以使用的源
 ```shell
 nrm ls 
 ```
+>切换使用的源
 ```shell
 nrm use huawei
 ```
