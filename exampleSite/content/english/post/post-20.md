@@ -44,19 +44,27 @@ nvm current
 ```
 >安装自己需要的版本
 ```shell
-nvm install 版本号
+nvm install <version>
 ```
 >切换到需要的版本
 ```shell
-nvm use 版本号
+nvm use <version>
 ```
 >更换默认需要使用的版本号
 ```shell
-nvm alias  default 版本号
+nvm alias  default <version> 
 ```
->删除对应的版本号
+>删除指定的别名
 ```shell
-nvm unalias 版本号
+nvm unalias <name> 
+```
+>删除nodejs的版本号
+```shell
+nvm uninstall <version>
+```
+
+```shell
+nvm reinstall-packages <version>
 ```
 
 ### 安装管理的源nrm
