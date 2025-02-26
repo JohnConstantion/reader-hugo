@@ -41,3 +41,7 @@ git config --list
 ```shell
 git clone https://gitclone.com/github.com/tendermint/tendermint.git
 ```
+### 添加git快速下载前置条件
+```
+git config --global url."https://gitclone.com/".insteadOf https://
+```
