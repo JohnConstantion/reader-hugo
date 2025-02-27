@@ -3,7 +3,7 @@ title: "本地搭建Ollama大模型"
 date: 2025-02-26T13:46:13+08:00
 # post thumb
 images:
-  - "images/blog/funingna.jpg"
+  - "images/blog/blog-qiu.jpg"
 #author
 author: "Crucio"
 # description
