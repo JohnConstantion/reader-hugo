@@ -9,9 +9,9 @@ author: "Crucio"
 # description
 description: "搭建本地的ollama加载本地的大模型并关联本地的知识库"
 # Taxonomies
-categories: [ "videography","blog" ]
-tags: [ "skill","java" ]
-type: "regular" # available type (epic, trending, popular, or regular)
+categories: [ "ollama" ]
+tags: [ "ollama" ]
+type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
