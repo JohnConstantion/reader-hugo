@@ -35,3 +35,29 @@ docker run -d --name ollama -p 11434:11434 ghcr.io/sullay/ollama:latest
 ```
 #### 方法三：访问官网根据自己的系统类型安装对应的安装包
 > [官网跳转](https://ollama.com/)
+
+### 运行ollama
+打开ollama软件，在浏览器中输入 http://127.0.0.1:11434 测试是否运行成功
+```html
+Ollama is running
+```
+页面显示代表运行成功
+
+### ollama 如何加载大数据模型（Mac系统）
+打开终端并输入命令
+```bash
+ollama run deepseek-r1:32b
+```
+ollama 下载模型会出现网速过慢的问题，根据需求修改命令提升下载速度
+```bash
+while true; do
+    ollama run mistral-small:24b &
+    CMD_PID=$!
+    echo $CMD_PID
+    sleep 60
+    kill -9 $CMD_PID
+    wait $CMD_PID 2>/dev/null
+done
+```
+
+
