@@ -32,6 +32,7 @@ brew install --cask ollama
 docker pull ghcr.io/sullay/ollama:latest
 docker run -d --name ollama -p 11434:11434 ghcr.io/sullay/ollama:latest
 ```
+> 打开docker桌面应用，点击右下角Terminal,可以快速打开终端，输入上面命令
 #### 方法三：访问官网根据自己的系统类型安装对应的安装包
 > [官网跳转](https://ollama.com/)
 
