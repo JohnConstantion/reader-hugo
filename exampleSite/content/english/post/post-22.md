@@ -44,7 +44,7 @@ rime输入法原本的词组也很糟糕，仅仅是能用的地步，但是其�
 
 
 #### 好用的词库
-推荐的词库有：[**白露词库**](https://github.com/gaboolic/rime-frost)、
+推荐的词库有：[**白露词库**](https://github.com/gaboolic/rime-frost)、s
 [**雾凇词库**](https://github.com/iDvel/rime-ice)<br>
 拓展词库在GitHub有 [**中文维基**](https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases)、
 [**萌娘**](https://github.com/outloudvi/mw2fcitx/releases) 的词库
@@ -52,4 +52,14 @@ rime输入法原本的词组也很糟糕，仅仅是能用的地步，但是其�
 ### 待更新学习的模块
 [**万象词典**]https://github.com/amzxyz/RIME-LMDG
 
-
+### 白露词库更新词库
+```bash
+cd ~/Library/Rime/plum/
+bash rime-install gaboolic/rime-frost:others/recipes/full
+```
+更新完词库之后需要将原本设置的额外词库重新添加回去，更新会修改原本的配置词库。
+```yaml
+ - cn_dicts/zhwiki
+ - cn_dicts/moegirl
+ - my_dicts/kaomoji
+```
