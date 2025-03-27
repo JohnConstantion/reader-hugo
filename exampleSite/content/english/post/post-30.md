@@ -3,9 +3,9 @@ title: "macOS 搭建mcp协议的流程"
 date: 2025-03-26T16:44:11+08:00
 # post thumb
 images:
-- "images/blog/blog-qiu.jpg"
-  #author
-  author: "Crucio"
+  - "images/blog/blog-qiu.jpg"
+#author
+author: "Crucio"
 # description
 description: "macOS 搭建mcp协议的流程"
 # Taxonomies
