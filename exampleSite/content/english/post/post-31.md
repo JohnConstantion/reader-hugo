@@ -3,9 +3,9 @@ title: "如何清理自己烦乱的生活"
 date: 2025-04-10T13:02:26+08:00
 # post thumb
 images:
-- "images/blog/blog-long.jpg"
-  #author
-  author: "Crucio"
+  - "images/blog/blog-long.jpg"
+#author
+author: "Crucio"
 # description
 description: "如何清理自己烦乱的生活"
 # Taxonomies
