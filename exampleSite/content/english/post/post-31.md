@@ -10,7 +10,7 @@ author: "Crucio"
 description: "如何清理自己烦乱的生活"
 # Taxonomies
 categories: [ "life" ]
-tags: [ "life" ，“project”]
+tags: [ "life",“project”]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
